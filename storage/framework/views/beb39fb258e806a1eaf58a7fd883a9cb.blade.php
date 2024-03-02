@@ -1,0 +1,1 @@
+<div><x-splade-component is="data-stores" :stores="$stores">{!! $originalContent !!}</x-splade-component></div>
